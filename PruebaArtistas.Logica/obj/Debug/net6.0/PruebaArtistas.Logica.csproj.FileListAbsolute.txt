@@ -1,0 +1,17 @@
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\bin\Debug\net6.0\PruebaArtistas.Logica.deps.json
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\bin\Debug\net6.0\PruebaArtistas.Logica.runtimeconfig.json
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\bin\Debug\net6.0\PruebaArtistas.Logica.dll
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\bin\Debug\net6.0\PruebaArtistas.Logica.pdb
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\bin\Debug\net6.0\PruebaArtistas.Data.dll
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\bin\Debug\net6.0\PruebaArtistas.Data.pdb
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\obj\Debug\net6.0\PruebaArtistas.Logica.csproj.AssemblyReference.cache
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\obj\Debug\net6.0\PruebaArtistas.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\obj\Debug\net6.0\PruebaArtistas.Logica.AssemblyInfoInputs.cache
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\obj\Debug\net6.0\PruebaArtistas.Logica.AssemblyInfo.cs
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\obj\Debug\net6.0\PruebaArtistas.Logica.csproj.CoreCompileInputs.cache
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\obj\Debug\net6.0\PruebaArtistas.Logica.csproj.CopyComplete
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\obj\Debug\net6.0\PruebaArtistas.Logica.dll
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\obj\Debug\net6.0\refint\PruebaArtistas.Logica.dll
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\obj\Debug\net6.0\PruebaArtistas.Logica.pdb
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\obj\Debug\net6.0\PruebaArtistas.Logica.genruntimeconfig.cache
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Logica\obj\Debug\net6.0\ref\PruebaArtistas.Logica.dll

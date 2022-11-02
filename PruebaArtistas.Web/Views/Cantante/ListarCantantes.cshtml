@@ -1,0 +1,10 @@
+﻿@model List<PruebaArtistas.Data.Entidades.Cantante>
+
+<h1>Tus Cantantes</h1>
+
+@foreach (var item in Model)
+{
+    <h2>@item.Nombre</h2>
+    <h3>@item.Edad</h3>
+    <p>@item.Descripcion</p>
+}

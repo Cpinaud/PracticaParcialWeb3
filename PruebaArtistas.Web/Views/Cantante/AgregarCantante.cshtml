@@ -1,0 +1,21 @@
+﻿@model PruebaArtistas.Data.Entidades.Cantante;
+
+<h1>Agregar nuevo cantante: </h1>
+
+<form action="AgregarCantante" method="POST" enctype="multipart/form-data">
+    <div>
+        Nombre : <input type="text" name="Nombre" asp-for="Nombre" />
+        <span asp-validation-for="Nombre"></span>
+    </div>
+    <div>
+        Edad : <input type="number" name="Edad" asp-for="Edad" />
+        <span asp-validation-for="Edad"></span>
+    </div>
+    <div>
+        Descripcion : <textarea name="Descripcion" asp-for="Descripcion" ></textarea>
+        <span asp-validation-for="Descripcion"></span>
+    </div>
+    <div>
+        <input type="submit" value="Agregar" />
+    </div>
+</form>

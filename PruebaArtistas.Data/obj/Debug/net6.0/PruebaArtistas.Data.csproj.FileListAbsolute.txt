@@ -1,0 +1,14 @@
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Data\bin\Debug\net6.0\PruebaArtistas.Data.deps.json
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Data\bin\Debug\net6.0\PruebaArtistas.Data.runtimeconfig.json
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Data\bin\Debug\net6.0\PruebaArtistas.Data.dll
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Data\bin\Debug\net6.0\PruebaArtistas.Data.pdb
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Data\obj\Debug\net6.0\PruebaArtistas.Data.csproj.AssemblyReference.cache
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Data\obj\Debug\net6.0\PruebaArtistas.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Data\obj\Debug\net6.0\PruebaArtistas.Data.AssemblyInfoInputs.cache
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Data\obj\Debug\net6.0\PruebaArtistas.Data.AssemblyInfo.cs
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Data\obj\Debug\net6.0\PruebaArtistas.Data.csproj.CoreCompileInputs.cache
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Data\obj\Debug\net6.0\PruebaArtistas.Data.dll
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Data\obj\Debug\net6.0\refint\PruebaArtistas.Data.dll
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Data\obj\Debug\net6.0\PruebaArtistas.Data.pdb
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Data\obj\Debug\net6.0\PruebaArtistas.Data.genruntimeconfig.cache
+C:\Users\cinti\Desktop\PW3 Projects\PruebaArtistas\PruebaArtistas.Data\obj\Debug\net6.0\ref\PruebaArtistas.Data.dll
